@@ -7,9 +7,9 @@ Mô tả: Từ code của đồ án 1, tiến hành cài đặt để Nachos h�
 - Chỉnh sửa lớp AddrSpace, Thread
 
 Thành viên:
-- Trần Thị Thùy Linh            18120194
-- Vương Thị Ngọc Linh           18120195
-- Đặng Đỗ Huỳnh Như             18120219
-- Nguyễn Dương Binl             18120292
+- 18120194 Trần Thị Thùy Linh           
+- 18120195 Vương Thị Ngọc Linh          
+- 18120219 Đặng Đỗ Huỳnh Như            
+- 18120292 Nguyễn Dương Binl          
 
 
